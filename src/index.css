@@ -1,0 +1,15 @@
+* {
+  box-sizing: border-box;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+td {
+  width: 80px;
+  height: 80px;
+  font-size: 40px;
+  cursor: pointer;
+  text-align: center;
+}
